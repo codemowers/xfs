@@ -1,2 +1,2 @@
 FROM alpine
-RUN apk add xfsprogs
+RUN apk add xfsprogs xfsprogs-extra
